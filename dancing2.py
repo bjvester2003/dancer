@@ -18,7 +18,7 @@ class dancing():
         print("Welcome to Dancing!!!\n")
         
         for i, dance in enumerate(dances):
-            print(f"{i+1}: {dance["DanceName"]}")
+            print(f"{i+1}: {dance['DanceName']}")
         print()
         
         userSelection = int(input("What dance would you like to see? "))
