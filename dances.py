@@ -39,8 +39,9 @@ dances = [
         ] 
     },
     {
+        # This one don't work as well lol
         "DanceName":"YMCA",
-        "SongFile":None,
+        "SongFile":"YMCA.mp3",
         "FrameRate":0.5,
         "DanceFrames":[
             """  
